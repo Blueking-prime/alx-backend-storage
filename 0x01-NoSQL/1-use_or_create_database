@@ -1,2 +1,2 @@
 // Creates a database
-_use_my_db
+use my_db
