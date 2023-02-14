@@ -1,0 +1,2 @@
+// Lists all documents in a collection containing a certain attribute
+_db.school.find({name="Holberton school"})
